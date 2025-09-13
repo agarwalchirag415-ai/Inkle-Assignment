@@ -7,6 +7,7 @@ import {
 import "./Table.css";
 
 const Table = ({ data, onEdit }) => {
+//  Column Table added
   const columns = [
     {
       id: "name",
